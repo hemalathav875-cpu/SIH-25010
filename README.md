@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:24.9.25
+## Register Number:25015914
+## Name:HEMALATHA V
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,36 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+1.Increased yield and income (20–30%)
 
+2.Reduction in crop loss from weather/pests (up to 30%)
+
+3.Optimized use of water, fertilizers, and pesticides
+#DIAGRAM
+![alt text](<Screenshot 2025-09-24 143355-1.png>)
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+1.Hosted on AWS, Google Cloud, or Microsoft Azure.
+
+2.Utilizes Docker and Kubernetes for containerized deployment.
+
+3.CI/CD pipelines for continuous integration and updates (GitHub Actions or Jenkins).
+
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+1.Low-cost deployment using cloud infrastructure.
 
+2.Potential for funding from government schemes, NGOs, and CSR.
+
+3.Freemium or subscription models can generate sustainable revenue.
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+1.Builds resilience to climate change and weather shocks
 
+2.Promotes adoption of modern agricultural technologies
+
+3.Enables informed, timely decision-making
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+1.AI-driven query response systems support farmers with timely information and decision-making help.
+
+2.Satellite data-based yield prediction aids in resource planning and market readiness.
+
+3.Smart agriculture adoption increases productivity, reduces costs, and supports smallholder farmer sustainability.
